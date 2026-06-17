@@ -1,0 +1,6 @@
+{
+  "name": "ILES Group 12",
+  "description": "Internship Logging & Evaluation System (ILES) for Group 12 - CSC 1202. Features Weekly Logbook, Supervisor Review, Academic Evaluation, and GitLab Contribution Portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
